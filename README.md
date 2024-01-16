@@ -10,7 +10,7 @@ In this repository, you can find a compilation of the practical activities I hav
 # Subjects
 - **Tools for AI**: Discover the key tools and technologies that are fundamental for the development of Artificial Intelligence projects.
 
-- **Deep Learning (I) and (II)*: Dive into the fascinating world of Deep Learning, where you will find examples of neural networks applied to classification problems, text generation, and more.
+- **Deep Learning (I) and (II)**: Dive into the fascinating world of Deep Learning, where you will find examples of neural networks applied to classification problems, text generation, and more.
 
 - **Reinforcement Learning**: Explore how Artificial Intelligence can learn to make optimal decisions in complex environments through reinforcement learning.
 
